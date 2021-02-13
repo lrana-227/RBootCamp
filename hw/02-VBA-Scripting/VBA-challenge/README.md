@@ -1,0 +1,2 @@
+# I have tried to do the extra credit but could not complete which is why the three headers are in the side of the views 
+# I have made three differnt fuctions I found it very difficult to test different parts of the challenge
