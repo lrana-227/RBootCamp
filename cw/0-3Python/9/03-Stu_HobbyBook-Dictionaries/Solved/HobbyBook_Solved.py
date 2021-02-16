@@ -7,5 +7,5 @@ my_info = {"name": "Rex",
 
 # Print out results are stored in the dictionary
 print(f'Hello I am {my_info["name"]} and I am a {my_info["occupation"]}')
-print(f'I have {len(my_info["hobbies"])} hobbies!')
+print(f'I have {(my_info["hobbies"][0])} hobbies!')
 print(f'On the weekend I get up at {my_info["wake-up"]["Saturday"]}')
