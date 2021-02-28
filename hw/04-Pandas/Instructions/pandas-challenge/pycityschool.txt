@@ -1,0 +1,4 @@
+Observations of the PyCitySchool are: 
+
+-Charter Schools, regardless of school size and budget per student is higher. The top five performing schools are all charter while the bottom perfroming schools are district. Across the board of average math and reading scores and overal passing percent, charter schools score significantly higher. 
+- There seems to be no correlation between the amount spend or school size and the student performance. While one would think that a small school size or and increased budget per student would increase performance, all the averages are within a simmilar range. 
