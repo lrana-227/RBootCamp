@@ -1,0 +1,24 @@
+h1{
+    color:deepskyblue;
+}
+
+/* Classes created */
+.purple{
+    color:purple;
+}
+
+
+/* Id created */
+#red{
+    color:red;
+}
+
+#text_backround{
+
+    background-color: greenyellow;
+}
+
+.font{
+    font-size: xx-small;
+}
+
